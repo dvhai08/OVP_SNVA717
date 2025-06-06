@@ -2881,10 +2881,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "6c2ea306-db42-4f42-ae8d-ffd7f9f1670b")
 		(property "Reference" "C2"
-			(at 133.35 54.6162 0)
+			(at 132.842 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2893,7 +2892,7 @@
 			)
 		)
 		(property "Value" "0.1uF"
-			(at 133.35 57.1562 0)
+			(at 132.842 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3022,7 +3021,7 @@
 		(dnp no)
 		(uuid "7e3d5d50-d1db-4228-a0bb-592df8d35a26")
 		(property "Reference" "R4"
-			(at 115.57 54.6099 0)
+			(at 116.332 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3031,7 +3030,7 @@
 			)
 		)
 		(property "Value" "10R"
-			(at 115.57 57.1499 0)
+			(at 116.332 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3440,7 +3439,7 @@
 		(dnp no)
 		(uuid "9f7d1f46-6f8b-49b1-a728-c9b599912ed3")
 		(property "Reference" "D4"
-			(at 133.35 77.4701 90)
+			(at 132.588 77.47 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3449,7 +3448,7 @@
 			)
 		)
 		(property "Value" "BAV99"
-			(at 133.35 74.9301 90)
+			(at 132.588 74.93 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3660,16 +3659,16 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small_US")
-		(at 106.68 69.85 180)
+		(at 106.68 69.85 0)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "d168e951-748e-4b3f-acd4-ad5b91163ba9")
 		(property "Reference" "R3"
-			(at 109.22 68.5799 0)
+			(at 105.156 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3678,7 +3677,7 @@
 			)
 		)
 		(property "Value" "332K"
-			(at 109.22 71.1199 0)
+			(at 105.156 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
