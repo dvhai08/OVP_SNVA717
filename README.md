@@ -13,7 +13,9 @@ capacitor calculations.
 6. Does not rely on dissipative limiting.
 7. Does not blow fuses when in voltage limiting mode.
 
-![Alt text](/ovp_blockdiagram.PNG)
+## Schematic
+
+![Alt text](/Hardware/sch.png)
 
 ## PCB View
 
