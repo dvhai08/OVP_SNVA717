@@ -14,3 +14,7 @@ capacitor calculations.
 7. Does not blow fuses when in voltage limiting mode.
 
 ![Alt text](/ovp_blockdiagram.PNG)
+
+## PCB View
+
+![Alt text](/Hardware/SNVA717_V1.1/SNVA717_V1.1.png)

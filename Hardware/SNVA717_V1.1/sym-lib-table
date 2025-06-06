@@ -1,0 +1,9 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "WLC1115_68LQXQ")(type "KiCad")(uri "${KIPRJMOD}/Footprints-Models/WLC1115_68LQXQ.kicad_sym")(options "")(descr ""))
+  (lib (name "DLW5BTM101TQ2L")(type "KiCad")(uri "${KIPRJMOD}/Footprints-Models/DLW5BTM101TQ2L.kicad_sym")(options "")(descr ""))
+  (lib (name "BUK7K12-60EX")(type "KiCad")(uri "${KIPRJMOD}/Footprints-Models/BUK7K12-60EX.kicad_sym")(options "")(descr ""))
+  (lib (name "SLS32AIA020X2USON10XTMA4")(type "KiCad")(uri "${KIPRJMOD}/Footprints-Models/SLS32AIA020X2USON10XTMA4.kicad_sym")(options "")(descr ""))
+  (lib (name "BSZ060NE2LSATMA1")(type "KiCad")(uri "${KIPRJMOD}/Footprints-Models/BSZ060NE2LSATMA1.kicad_sym")(options "")(descr ""))
+  (lib (name "USB4105-GF-A")(type "KiCad")(uri "${KIPRJMOD}/Footprints-Models/USB4105-GF-A.kicad_sym")(options "")(descr ""))
+)
