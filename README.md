@@ -1,8 +1,6 @@
 # OVP_SNVA717
 Automotive Line Transient Protection Circuit
 ## Overall Circuit Parameters
-Figure 4 shows the full circuit schematic of the design. Considering all of the above requirements, this
-resulting circuit has:
 1. Essentially zero operating current during normal operation as the only conducting semiconductor in this
 mode is the p-channel MOSFET.
 2. Programmable over-voltage disconnect determined by selection of zener diodes.
